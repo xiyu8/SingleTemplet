@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SingleTemplet.iml" filepath="$PROJECT_DIR$/SingleTemplet.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obtainpic/obtainpic.iml" filepath="$PROJECT_DIR$/obtainpic/obtainpic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcpudp/tcpudp.iml" filepath="$PROJECT_DIR$/tcpudp/tcpudp.iml" />
     </modules>
   </component>
 </project>
